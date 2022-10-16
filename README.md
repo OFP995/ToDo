@@ -1,3 +1,5 @@
-To-do заметки с возможностью перемещения на основе Draggable
+Todo заметки с возможностью перемещения на основе Draggable
+
+Стек: HTML, CSS, Javascript, React, Draggable, uuid
 
 Для запуска: npm start
